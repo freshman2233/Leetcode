@@ -1,4 +1,4 @@
-package freshman22233.twoSum;
+package freshman22233.one;
 
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package freshman22233.addTwoNumbers;
+package freshman22233.two;
 
 /**
  * 2. Add Two Numbers
